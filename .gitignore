@@ -5,6 +5,3 @@ venv/
 .DS_Store
 .pospell/
 .potodo/
-requirements.txt
-MYTASKLIST.TXT
-raw.TXT
